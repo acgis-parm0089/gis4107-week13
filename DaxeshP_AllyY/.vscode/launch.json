@@ -16,7 +16,8 @@
             "type": "debugpy",
             "request": "launch",
             "program": "${file}",
-            "console": "integratedTerminal"
+            "console": "integratedTerminal",
+            "args": ["water_stn_data\\output.json"]
         }
     ]
 }
