@@ -48,7 +48,7 @@ def main():
     #       and set the return value to a variable named status
     #
     status= (wsd.download_to_file())
-    return status
+    return statush
 
     # TODO:  Print a message to inform the user what as happened
     # Based on the value of status, if the file downloaded successfully,
